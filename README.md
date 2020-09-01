@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning web dwvelopment
+- 💬 Ask me about anything
 
 <!--
 **70k0b0d0/70k0b0d0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
