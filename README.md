@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning CompTIA Security +
 - 💬 Ask me about anything
 
 <!--
