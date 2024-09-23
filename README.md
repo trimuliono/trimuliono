@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Cyber Security
+- 🌱 I’m currently learning Hasura
 - 💬 Ask me about anything
 
 <!--
